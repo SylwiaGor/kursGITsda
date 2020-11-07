@@ -1,1 +1,4 @@
+
 Wprowadzam zmiany w pliku do konfliktu.
+
+wprowadzam zmiany na branch conflict ponownie i commituje zmiany
