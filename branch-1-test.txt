@@ -1,3 +1,6 @@
+
 Wprowadzam zmiany w pliku do konfliktu.
 wpisuje tresc bo wczesniej jej nie bylo i plik sie zmergowal
 na branchu conflict tez wprowadze zmiany
+wprowadzam zmiany na branch conflict ponownie i commituje zmiany
+ostatnia wersja do merga
