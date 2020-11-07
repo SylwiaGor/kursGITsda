@@ -1,2 +1,6 @@
 Ala ma kota.
 Sprawdzam, czy zapisanie zmian i zrobienie commitu spowoduje wyswietlenie zmian w githubie.
+
+teraz użyję tego pliku do wprowadzenia konfliktu między branchami
+w video użyty jest plika.txt
+u mnie plik.txt
