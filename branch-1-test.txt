@@ -1,1 +1,3 @@
 Wprowadzam zmiany w pliku do konfliktu.
+wpisuje tresc bo wczesniej jej nie bylo i plik sie zmergowal
+na branchu conflict tez wprowadze zmiany
